@@ -1,0 +1,11 @@
+/project-directory
+  /assets
+    /images
+      christmas-background.jpg
+  /css
+    style.css
+  /js
+    script.js
+  index.html
+  login.html
+  signup.html
